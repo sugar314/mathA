@@ -76,12 +76,14 @@ ul {
 }
 
 .slide img {
+  margin:-5vw;
   width: 90vw;
   height: auto;
   border-radius: 5px;
 }
 
 .slide-ans img {
+  margin:-5vw;
   width: 90vw;
   height: auto;
   border-radius: 5px;
