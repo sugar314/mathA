@@ -8,21 +8,21 @@ ul {
 
 .slide-wrapper {
   text-align: center;
-  width: 800px;
+  width: 90vw;
   margin: 0 auto;
   color: #5e6f84;
   padding: 0px 0;
 }
 
 .slide-title {
-  font-size: 30px;
+  font-size: 20px;
   margin-bottom: 20px;
 }
 
 .change-btn-wrapper {
-  width: 800px;
+  width: 90vw;
   margin: 20px auto;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 .change-btn-wrapper:after {
@@ -48,7 +48,7 @@ ul {
 }
 
 .slides {
-  padding: 0;
+  margin-top: -100px;
 }
 
 .slide {
@@ -76,13 +76,13 @@ ul {
 }
 
 .slide img {
-  width: 800px;
+  width: 90vw;
   height: auto;
   border-radius: 5px;
 }
 
 .slide-ans img {
-  width: 800px;
+  width: 90vw;
   height: auto;
   border-radius: 5px;
 }
@@ -99,7 +99,7 @@ ul {
   background-color: #e0f5ff;
   width: 40px;
   padding: 6px 0;
-  margin: 10px 5px;
+  margin: 8px 5px;
   border-radius: 3px;
   cursor: pointer;
 }
